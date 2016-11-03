@@ -1,8 +1,10 @@
-*.pyc
-~*
-*.orig
 *.db
+*.orig
+*.pyc
 *.sqlite*
+MANIFEST
 _build
 build
+dist
 django_eav.egg-info/*
+~*
